@@ -28,3 +28,28 @@ If you prefer not to use SPM, you can integrate CenterdUISlider into your projec
 
 ### Storyboard
 You can use CenterdUISlider from storyboard easily By changing the type of a regular UIView into CenterdUISlider and set its Moudle to be CenterdUISlider.
+
+###  Programmatically
+```swift
+
+    let centerdSlider = CenteredUISlider()
+    centerdSlider.translatesAutoresizingMaskIntoConstraints = false
+    centerdSlider.rangeValue = 50
+    centerdSlider.progressColor = .purple
+    
+    centerdSlider.getSLiderValue = { value in
+        print(value)
+    }
+
+```
+## Author
+
+Mohammed Reza Ghate
+
+- https://github.com/mohammed1955
+- https://www.linkedin.com/in/mohamadrezaghate/
+- mohammed.r.ghate@gmail.com
+
+## License
+
+CenteredUISlider is available under the MIT license. See the LICENSE file for more info.
