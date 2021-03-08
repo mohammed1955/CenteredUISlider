@@ -36,7 +36,6 @@ You can use CenterdUISlider from storyboard easily By changing the type of a reg
 ```swift
 
     let centerdSlider = CenteredUISlider()
-    centerdSlider.translatesAutoresizingMaskIntoConstraints = false
     centerdSlider.rangeValue = 50
     centerdSlider.progressColor = .purple
     
