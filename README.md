@@ -15,3 +15,16 @@
 - iOS 11.0+
 - Xcode 9+
 
+## Swift Package Manager
+
+CenterdUISlider is available through Swift Package Manager. To install
+it, simply go to Xcode under `File > Swift Packages > Add Package Dependency...`
+
+## Manually
+
+If you prefer not to use SPM, you can integrate CenterdUISlider into your project manually.
+
+## Usage
+
+### Storyboard
+You can use CenterdUISlider from storyboard easily By changing the type of a regular UIView into CenterdUISlider and set its Moudle to be CenterdUISlider.
