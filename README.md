@@ -16,7 +16,7 @@
 ## Requirements
 
 - iOS 11.0+
-- Xcode 9+
+- Xcode 10+
 
 ## Swift Package Manager
 
