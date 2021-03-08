@@ -29,6 +29,8 @@ If you prefer not to use SPM, you can integrate CenterdUISlider into your projec
 
 ## Usage
 
+### Negative value included
+
 ### Storyboard
 You can use CenterdUISlider from storyboard easily By changing the type of a regular UIView into CenterdUISlider and set its Moudle to be CenterdUISlider.
 
