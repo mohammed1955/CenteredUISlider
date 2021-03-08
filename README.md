@@ -11,7 +11,7 @@
 
 1) `You can use it with storyboard and Programmatically`
 2) `Easy to customize and interact `
-
+3)  `Negative value included  `
 
 ## Requirements
 
@@ -28,8 +28,6 @@ it, simply go to Xcode under `File > Swift Packages > Add Package Dependency...`
 If you prefer not to use SPM, you can integrate CenterdUISlider into your project manually.
 
 ## Usage
-
-### Negative value included
 
 ### Storyboard
 You can use CenterdUISlider from storyboard easily By changing the type of a regular UIView into CenterdUISlider and set its Moudle to be CenterdUISlider.
